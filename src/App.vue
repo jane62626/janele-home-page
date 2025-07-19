@@ -24,11 +24,11 @@
     <div v-show="!isloading && !isClearScreen" :style="xs||sm?{'overflow-y': 'auto','overflow-x': 'hidden'}:{}">
         <v-row>
             <v-col cols="12" md="4" lg="3" class="leleo-left" align="center">
-              <div :style="xs||sm?{'font-size':'2.3rem'}:{'display':'none'}" class="leleo-left-welcome">{{ configdata。welcometitle }}</div>  
+              <div :style="xs||sm?{'font-size':'2.3rem'}:{'display':'none'}" class="leleo-left-welcome">{{ configdata.welcometitle }}</div>  
               <v-avatar class="leleo-left-avatar" :size="xs||sm?120:140" :style="xs||sm?{'margin-top': '0'}:{'margin-top': '2rem'}" @mouseenter="musicplayershow(1)" @mouseleave="musicplayershow(0)">
                   <v-img :class="{'leleo-spin':isPlaying}"
                   alt="Leleo"
-                  :src=configdata。avatar
+                  :src=configdata.avatar
                   ></v-img>
                   <!-- 由于当ismusicplayer显示后，fadein无效果，所以需要设置一个过渡动画 -->
                   <transition name="fade">
@@ -61,9 +61,9 @@
 
                 <v-card class="ma-5 pa-2 leleo-left-card" variant="tonal" :max-width="xs?270:300" style="text-align: center;">
                     <template v-slot:title>
-                    <span>标签</span>
+                    <span>Tags</span>
                     </template>
-                    <v-chip v-for="item in personalized标签" density="compact" link class="ma-1" size="small">
+                    <v-chip v-for="item in personalizedtags" density="compact" link class="ma-1" size="small">
                     {{item}}
                     </v-chip>
                 </v-card>
@@ -243,7 +243,7 @@
             </v-card>
 
             <p class="ma-6">
-                <span v-for="item in configdata。statement">
+                <span v-for="item in configdata.statement">
                   {{ item }}<br>
                 </span>
             </p>
