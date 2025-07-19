@@ -13,14 +13,14 @@
 	},
 	"brightness": 85,
 	"blur": 7,
-	"tags": ["疯批年下", "强制骨科", "双向救赎", "大型犬攻",  "绝世好受", "男孕生子", "强攻强受"],
+	
 	"background": {
 		"pc": {
 			"type": "pic",
 			"datainfo": {
 				"title": "珍珠少年",
-				"preview": "/img/wallpaper/static/珍珠少年/image-pre.webp",
-				"url": "/img/wallpaper/static/珍珠少年/image.png"
+				"preview": "https://file.uhsea.com/2507/a897ae412dae1b7ef5526b9651cbbf933Z.webp",
+				"url": "https://file.uhsea.com/2507/8cd4f96990fc153492870a49223ca219X3.png"
 			}
 		},
 		"mobile": {
@@ -51,11 +51,8 @@
 	}, {
 		"icon": "mdi-youtube",
 		"link": "https://www.youtube.com"
-	}, {
-		"icon": "mdi-facebook",
-		"link": "https://www.facebook.com"
 	}],
-	"typeWriterStrings": ["如果你看到了这行字，说明我已经成功吸引到了你的注意力。", "顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。", "心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。", "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"],
+	"typeWriterStrings": ["希望树活着，花也是，火也是。", "走过安徒生走过的路，从此我就会写童话故事啦。", "我不在乎外部给我的标签，因为他们只是想记住我而已。", "终有一日，寒冬会融于暖阳之下，而我，会化作你永不落幕的春天。", "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"],
 	"musicPlayer": {
 		"server": "netease",
 		"type": "playlist",
@@ -63,27 +60,24 @@
 	},
 	"wallpaper": {
 		"pic": [{
-				"title": "珍珠少年",
-				"preview": "/img/wallpaper/static/珍珠少年/image-pre.webp",
-				"url": "/img/wallpaper/static/珍珠少年/image.png"
-			}, {
-				"title": "不健全关系",
-				"preview": "/img/wallpaper/static/不健全关系/image-pre.webp",
-				"url": "/img/wallpaper/static/不健全关系/image.png"
-			}, {
+				"title":"珍珠少年",
+				"preview":"https://file.uhsea.com/2507/a897ae412dae1b7ef5526b9651cbbf933Z.webp",
+				"url":"https://file.uhsea.com/2507/8cd4f96990fc153492870a49223ca219X3.png"
+			}, 
+			{
+				"title":"腾瑞雨",
+                "preview":"https://file.uhsea.com/2507/dcc9b874ae30dc3c1e2dbd020f4b4bc5HS.webp",
+                "url":"https://file.uhsea.com/2507/7a82ec7dc1881d6148510009b06a4373IJ.png"
+			}, 
+			{
 				"title": "天官赐福",
 				"preview": "/img/wallpaper/static/天官赐福/image-pre.webp",
 				"url": "/img/wallpaper/static/天官赐福/image.png"
 			},
 			{
-				"title": "jswcMaMj",
-				"preview": "https://file.uhsea.com/2503/76a4f03e8654d6e66bbbc7e8149c2fe33M.png",
-				"url": "https://file.uhsea.com/2503/5b8a20a5f2b269659911c9485d0d0c3f0F.png"
-			},
-			{
-				"title": "pgtTqoqq",
-				"preview": "https://file.uhsea.com/2503/caeae6b4fc1aba41bff4ad4ec59d6d8aA5.png",
-				"url": "https://file.uhsea.com/2503/45aa0a5a31a0ae95f7cc660e3ab4148eUT.png"
+				"title":"鬼夜曲",
+                "preview":"https://file.uhsea.com/2507/4531c4c9fd323247340f5d8738e27d64C7.webp",
+                "url":"https://file.uhsea.com/2507/e1655e686fbf5004231f6b2e4b5796fcZS.png"
 			}
 		],
 		"picMobile": [{
@@ -102,42 +96,36 @@
 				"title": "0004",
 				"preview": "/img/wallpaper/static-mobile/0004/image-pre.webp",
 				"url": "/img/wallpaper/static-mobile/0004/image.png"
-			}, {
-				"title": "DfNHPPcc",
-				"preview": "https://file.uhsea.com/2503/e3510f4d0286e37b828f74494230f0efM2.png",
-				"url": "https://file.uhsea.com/2503/97b50adb3d4cd6f1a4132f6d3e8c98483T.png"
-			},
-			{
-				"title": "WIOlrGSy",
-				"preview": "https://file.uhsea.com/2503/99162abfe07e18cfe6182ca3458561ef3A.png",
-				"url": "https://file.uhsea.com/2503/609532b992163117db9b341dde87b78f3C.png"
 			}
 		],
 		"video": [{
-			"title": "鬼夜曲",
-			"preview": "/img/wallpaper/dynamic/鬼夜曲/guiyequ-pre.webm",
-			"url": "/img/wallpaper/dynamic/鬼夜曲/guiyequ.webm"
-		}, {
-			"title": "王亿",
-			"preview": "/img/wallpaper/dynamic/王亿/wangyi-pre.webm",
-			"url": "/img/wallpaper/dynamic/王亿/wangyi.webm"
+			"title":"鬼夜曲",
+            "preview":"https://file.uhsea.com/2507/60d78759699bd5845da089a4de698869TK.webm",
+            "url":"https://file.uhsea.com/2507/9c1e96aa5dfdfd051f959b418b19c6f3RV.webm"
+        },{
+            "title":"王亿",
+            "preview":"https://file.uhsea.com/2507/f78e6dd807c5baeddc8e2bcf1cc59e74C4.webm",
+            "url":"https://file.uhsea.com/2507/3403382387954d976112ed079a0555c5XF.webm"
 		}],
 		"videoMobile": [{
 			"title":"言逸",
-            "preview":"/img/wallpaper/dynamic-mobile/言逸/yanyi-pre.mp4",
-            "url":"/img/wallpaper/dynamic-mobile/言逸/yanyi.mp4"
-		}, {
-			"title":"王亿",
-            "preview":"/img/wallpaper/dynamic-mobile/王亿/wangyi-pre.mp4",
-            "url":"/img/wallpaper/dynamic-mobile/王亿/wangyi.mp4"
-		}, {
-			"title":"珍珠花",
-            "preview":"/img/wallpaper/dynamic-mobile/珍珠花/zhenzhuhua-pre.mp4",
-            "url":"/img/wallpaper/dynamic-mobile/珍珠花/zhenzhuhua.mp4"
-		}, {
-			"title":"无根树",
-            "preview":"/img/wallpaper/dynamic-mobile/无根树/wugenshu-pre.mp4",
-            "url":"/img/wallpaper/dynamic-mobile/无根树/wugenshu.mp4"	
+            "preview":"https://file.uhsea.com/2507/776bca40ebbcb7051904c0db9724e436S9.mp4",
+            "url":"https://file.uhsea.com/2507/9629503e3cb52e6d00d16e6f71ea79460K.mp4"
+        },
+        {
+            "title":"王亿",
+            "preview":"https://file.uhsea.com/2507/35588a98c06091edd49c021ad9bebbceOK.mp4",
+            "url":"https://file.uhsea.com/2507/e3c537915cd1b75c9dc9de49fbfeb217OT.mp4"
+        },
+        {
+            "title":"珍珠花",
+            "preview":"https://file.uhsea.com/2507/4b82698bc77d747ee20cf0e08acb737fHX.mp4",
+            "url":"https://file.uhsea.com/2507/5e7264a8d81319f2fab413e75fe4b7b36F.mp4"
+        },
+        {
+            "title":"无根树",
+            "preview":"https://file.uhsea.com/2507/6f45c3b71a904d13ce5f74d2ba1a2943QS.mp4",
+            "url":"https://file.uhsea.com/2507/f57a37f53fb7a050296718d8da8f91fd7C.mp4"	
 		}]
 	},
 	"projectcards": [{
