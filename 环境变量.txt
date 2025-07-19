@@ -11,9 +11,9 @@
 		"themecolor": "#FFFFFF",
 		"welcometitlecolor": "#FFFFFF"
 	},
-	"brightness": 85,
-	"blur": 7,
-	
+	brightness: 85,
+	blur: 7,
+
 	"background": {
 		"pc": {
 			"type": "pic",
@@ -26,15 +26,15 @@
 		"mobile": {
 			"type": "pic",
 			"datainfo": {
-				"title": "0001",
-				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"
+				"title": "言逸",
+				"preview": "https://file.uhsea.com/2507/776bca40ebbcb7051904c0db9724e436S9.mp4",
+				"url": "https://file.uhsea.com/2507/9629503e3cb52e6d00d16e6f71ea79460K.mp4"
 			}
 		}
 	},
 	"polarChart": {
-		"skills": ["Node", "Vue.js", "React", "JavaScript", "Java", "Python", "linux", "Docker", "MySQL", "MongoDB", "AWS"],
-		"skillPoints": [90, 85, 78, 88, 80, 78, 85, 65, 82, 78, 65]
+		"skills": ["强强", "疯批", "年下", "骨科", "强制", "男孕", "救赎", "傲娇", "女王", "温柔", "黑皮"],
+		"skillPoints": [100,100, 100, 100, 100, 100, 100, 100, 100, 100, 100]
 	},
 	"socialPlatformIcons": [{
 		"icon": "mdi-github",
@@ -51,6 +51,9 @@
 	}, {
 		"icon": "mdi-youtube",
 		"link": "https://www.youtube.com"
+	},{
+		icon:"mdi-twitter",
+		link:"https://x.com"
 	}],
 	"typeWriterStrings": ["希望树活着，花也是，火也是。", "走过安徒生走过的路，从此我就会写童话故事啦。", "我不在乎外部给我的标签，因为他们只是想记住我而已。", "终有一日，寒冬会融于暖阳之下，而我，会化作你永不落幕的春天。", "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"],
 	"musicPlayer": {
@@ -71,8 +74,8 @@
 			}, 
 			{
 				"title": "天官赐福",
-				"preview": "/img/wallpaper/static/天官赐福/image-pre.webp",
-				"url": "/img/wallpaper/static/天官赐福/image.png"
+				"preview": "https://file.uhsea.com/2507/e5d3b30c2cd1d9f034dcbfabf7cc3ad97V.webp",
+				"url": "https://file.uhsea.com/2507/0554a4363df7878c2c2b4b9ea1ed94fe0M.png"
 			},
 			{
 				"title":"鬼夜曲",
