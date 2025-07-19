@@ -104,19 +104,6 @@
                     </v-col>
                     </v-row>
                 </v-container>
-              
-                //<v-card class="ma-5 pa-2 leleo-left-card" variant="tonal" :max-width="xs?270:300" style="text-align: center;">
-                    //<template v-slot:title>
-                    //<span>标签</span>
-                    //</template>
-                    //<v-chip v-for="item in personalized标签" density="compact" link class="ma-1" size="small">
-                    //{{item}}
-                    //</v-chip>
-                //</v-card>
-
-                <div class="leleo-left-chart">
-                    <polarchart :style="xs||sm?{'height':'210px'}:{'height':'270px'}"/>
-                </div>
             </v-col>
 
             <v-col cols="12" md="8" lg="9" style="height: 100vh;" :style="xs||sm ?{}:{'overflow': 'auto'}">
