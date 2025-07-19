@@ -63,7 +63,7 @@
                     <template v-slot:title>
                     <span>标签</span>
                     </template>
-                    <v-chip v-for="item in personalizedtags" density="compact" link class="ma-1" size="small">
+                    <v-chip v-for="item in personalized标签" density="compact" link class="ma-1" size="small">
                     {{item}}
                     </v-chip>
                 </v-card>
@@ -105,14 +105,14 @@
                     </v-row>
                 </v-container>
               
-                <v-card class="ma-5 pa-2 leleo-left-card" variant="tonal" :max-width="xs?270:300" style="text-align: center;">
-                    <template v-slot:title>
-                    <span>标签</span>
-                    </template>
-                    <v-chip v-for="item in personalizedtags" density="compact" link class="ma-1" size="small">
-                    {{item}}
-                    </v-chip>
-                </v-card>
+                //<v-card class="ma-5 pa-2 leleo-left-card" variant="tonal" :max-width="xs?270:300" style="text-align: center;">
+                    //<template v-slot:title>
+                    //<span>标签</span>
+                    //</template>
+                    //<v-chip v-for="item in personalized标签" density="compact" link class="ma-1" size="small">
+                    //{{item}}
+                    //</v-chip>
+                //</v-card>
 
                 <div class="leleo-left-chart">
                     <polarchart :style="xs||sm?{'height':'210px'}:{'height':'270px'}"/>
@@ -256,7 +256,7 @@
             </v-card>
 
             <p class="ma-6">
-                <span v-for="item in configdata.statement">
+                <span v-for="item in configdata。statement">
                   {{ item }}<br>
                 </span>
             </p>
